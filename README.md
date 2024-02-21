@@ -36,5 +36,3 @@ I am a software developer, and I am a programming student at CEAP, where I took 
 ### 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMilaoo&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-
-![Snake animation](https://github.com/oMilaoo/oMilaoo/blob/output/github-contribution-grid-snake.svg)
