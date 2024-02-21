@@ -14,7 +14,8 @@ I am a software developer, and I am a programming student at CEAP, where I took 
  	<a href="https://www.twitch.tv/leomilao_17_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/omilaoo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/leonardo-milão-98a36026b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+
 </div>
 
 ## 🛠 Hard Skills
@@ -30,8 +31,12 @@ I am a software developer, and I am a programming student at CEAP, where I took 
 
 ### 📊 GitHub Stats
 
-![oMilaoo GitHub stats](https://github-readme-stats.vercel.app/api?username=oMilaoo&show_icons=true&theme=transparent)
+![oMilaoo GitHub stats](https://github-readme-stats.vercel.app/api?username=oMilaoo&show_icons=true&theme=algolia)
 
 ### 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMilaoo&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
+![Snake animation](https://github.com/oMilaoo/oMilaoo/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/oMilaoo/oMilaoo/blob/output/github-contribution-grid-snake.svg)
