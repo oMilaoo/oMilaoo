@@ -4,7 +4,8 @@
 
 
 ## 🚀 About me
-I am a software developer, and I am a programming student at CEAP, where I took the technical IT course. In this course, our various classes cover the contents of JavaScript · SQL · Python (Programming Language) · Git · Software Development · Web Applications · Back-End Web Development · Cascading Style Sheets (CSS) · MySQL · Front-End Development · Java.
+
+I'm a software developer and I'm passionate about technology. And I'm always developing some things! JavaScript · SQL · Python (Programming Language) · Git · Software Development · Web Applications · Back-End Web Development · Cascading Style Sheets (CSS) · MySQL · Front-End Development · Java .
 
 
 ## 🔗 Connect with me
@@ -24,10 +25,11 @@ I am a software developer, and I am a programming student at CEAP, where I took 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧠 I am learning...
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### 📊 GitHub Stats
 
